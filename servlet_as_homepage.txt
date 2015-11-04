@@ -1,0 +1,3 @@
+<welcome-file-list>
+	<welcome-file>StartSisMovie</welcome-file>
+</welcome-file-list>

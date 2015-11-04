@@ -1,0 +1,97 @@
+.userbox{
+
+	width:100%;
+	height:400px;
+	
+
+}
+
+
+
+.perfil{
+	background-color: rgb(87,86,86);
+}
+
+.userphoto{
+	width:100%;
+	height:350px;
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	background-position: 50% 50%; 
+	
+}
+
+
+#add a:link{
+	text-decoration: none;
+	color:white;
+}
+#add a:visited{
+	text-decoration: none;
+	color:white;
+}
+
+#block a:link{
+	text-decoration: none;
+	color:white;
+}
+
+#block a:visited{
+	text-decoration: none;
+	color:white;
+}
+
+
+
+.addUser{
+	width:50%;
+	height:50px;
+	float:left;
+	
+	text-align:center;
+
+}
+
+.blockUser{
+	width:50%;
+	height:50px;
+	float:left;
+	
+}
+
+
+
+.useritems{
+	background-color:white;
+	color:black;
+}
+
+.movieContainer{
+
+	width:100%;
+	background-color:#F9F9F9;
+}
+
+.movieWrapper{
+	width:150px;
+	height:200px;
+	
+	display:inline-block;
+	margin:5px;
+
+}
+
+.movieImage{
+	width:150px;
+	height:70%;
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	background-position: 50% 50%; 
+	
+}
+
+.movieDescription{
+	width:150px;
+	height:30%;
+	
+}

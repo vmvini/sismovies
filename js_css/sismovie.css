@@ -1,0 +1,54 @@
+
+
+
+.form-group{
+	
+	margin:0 auto;
+	display:block;
+
+	margin-bottom:5px;
+
+}
+
+.titulo{
+
+	font-family: 'Oxygen', sans-serif;
+}
+
+.label{
+	font-family: 'Poiret One', cursive;
+	font-size:14px;
+
+}
+
+.row{
+	
+	background-color:rgb(122,150,178);
+	color:white;
+
+}
+
+.seethrough{
+	font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+  -webkit-text-fill-color: transparent;
+   -webkit-text-stroke: 1px #000000;
+   
+}
+
+.jumbotron{
+	background-color:transparent;
+	padding:0;
+	margin:0;
+}
+
+.cadastro{
+	padding:10px;
+		background-color: rgb(87,86,86);
+
+}
+
+.container{
+	background-color:rgb(122,150,178);
+
+
+}
